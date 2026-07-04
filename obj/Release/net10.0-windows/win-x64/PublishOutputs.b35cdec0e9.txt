@@ -1,0 +1,4 @@
+C:\Users\falli\OneDrive\Desktop\test1\BMWClusterMonitor.pdb
+C:\Users\falli\OneDrive\Desktop\test1\MonoPosixHelper.dll
+C:\Users\falli\OneDrive\Desktop\test1\libMonoPosixHelper.dll
+C:\Users\falli\OneDrive\Desktop\test1\BMWClusterMonitor.exe
